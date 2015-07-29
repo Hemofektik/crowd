@@ -1,0 +1,14 @@
+{
+  "dependencies": {},
+  "description": "Event Polling Game",
+  "happyFunTimes": {
+    "apiVersion": "1.13.0",
+    "category": "game",
+    "gameId": "CrowdMegaPoll",
+    "gameType": "html",
+    "minPlayers": 1
+  },
+  "name": "CROWD",
+  "private": false,
+  "version": "0.0.1"
+}
